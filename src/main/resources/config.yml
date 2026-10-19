@@ -1,0 +1,6 @@
+# How many home slots every player has
+default-homes: 3
+
+# How many home buttons are shown on one page of /homes
+# (a "Show More" button appears when there are more slots)
+homes-per-page: 5

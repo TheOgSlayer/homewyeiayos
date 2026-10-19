@@ -1,0 +1,12 @@
+name: JalebiHomes
+version: '${project.version}'
+main: smp.jalebi.homes.JalebiHomes
+api-version: '1.21.6'
+description: Dialog based /home system for Jalebi SMP
+commands:
+  homes:
+    description: Open the homes menu
+    usage: /homes
+  sethome:
+    description: Set a home at your location
+    usage: /sethome [name]
